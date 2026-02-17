@@ -1,0 +1,118 @@
+
+/*IMPORTANDO AS FONTES*/
+@font-face {
+    font-family: "Poppins-Bold";
+    src: url(fonts/Poppins-Bold.ttf)
+    format(truetype);
+    font-weight: 700;
+    font-display: swap;
+}
+@font-face {
+    font-family: "Poppins-Regular";
+    src: url(fonts/Poppins-Regular.ttf)
+    format(truetype);
+    font-weight: 400;
+    font-display: swap;
+}
+
+/*RESET*/
+*{
+    padding: 0;
+    margin: 0;
+}
+
+/*CSS DESKTOP*/
+body{
+    background-color: #0E1014;
+    color: #ffffff;
+    text-align: center;
+}
+header img{
+    display: block;
+    margin: 75px 0 0 360px;
+}
+h1{
+    color: #ffffff;
+    font-family: "Popins-Bold";
+    font-size: 64px;
+    margin-top: 60px;
+    margin-bottom: 24px;
+}
+p{
+    color: #ffffff;
+    font-family: "Poppins-Regular";
+    font-size: 24px;
+    width: 792px;
+    margin: 0 auto 40px auto;
+}
+a{
+    color: #ffffff;
+    font-family: "Poppins-Regular";
+    text-decoration: none;
+    font-size: 24px;
+    display: block;
+    background-color: #9747FF;
+    text-align: center;
+    width: 340px;
+    height: 66px;
+    line-height: 66px;
+    border-radius: 36px;
+    margin: 0 auto 40px auto;
+}
+a:hover{
+    background-color: #8233E8;
+}
+span{
+    color: #9747FF;
+}
+section img{
+    display: block;
+    width: 792px;
+    height: 446px;
+    margin: 0 auto;
+}
+
+/*CSS TABLET*/
+@media(max-width :768px){
+    header img{
+        margin: 65px 0 72px 60px;
+    }
+    h1{
+        width: 648px;
+        margin: 72px auto 24px auto;
+    }
+    p{
+        width: 648px;
+        margin: 0 auto 40px auto;
+    }
+    section img{
+        width: 648px;
+        height: 446px;
+    }
+}
+
+/*CSS MOBILE*/
+@media(max-width :375px){
+    header img{
+        margin: 32px 0 60px 16px;
+    }
+    h1{
+        width: 341px;
+        margin: 0 auto 24px auto;
+        font-size: 40px;
+    }
+    p{
+        width: 341px;
+        margin: 0 auto 40px auto;
+        font-size: 20px;
+    }
+    a{
+        width: 251px;
+        margin: 0px auto;
+        font-size: 20px;
+    }
+    section img{
+        width: 341px;
+        height: 230px;
+    }
+}
