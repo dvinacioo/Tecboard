@@ -39,10 +39,10 @@ O layout foi desenvolvido seguindo a abordagem **Desktop First**, com adaptaçõ
 ---
 
 ## 📂 Estrutura do projeto
-📁 TecBoard
-├── index.html
-├── style.css
-├── 📁 img
+📁 TecBoard <br>
+├── index.html <br>
+├── style.css <br>
+├── 📁 img <br>
 └── 📁 fonts
 
 ---
