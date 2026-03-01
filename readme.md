@@ -2,9 +2,9 @@
 
 ## 📖 Sobre o projeto
 
-O **TecBoard** é uma landing page desenvolvida com foco na apresentação de um produto digital de monitoramento em tempo real, com alertas inteligentes para aplicações.
+O **<a href="https://dvinacioo.github.io/Tecboard/" target="_blank">TecBoard</a>** é uma landing page desenvolvida com foco na apresentação de um produto digital de monitoramento em tempo real, com alertas inteligentes para aplicações.
 
-O projeto foi construído utilizando apenas **HTML5 e CSS3**, com foco em estruturação semântica e responsividade, durante um dos curso da **<a href="https://www.alura.com.br">Alura</a>**.
+O projeto foi construído utilizando apenas **HTML5 e CSS3**, com foco em estruturação semântica e responsividade, durante um dos curso da **<a href="https://www.alura.com.br" target="blank">Alura</a>**.
 
 ---
 
